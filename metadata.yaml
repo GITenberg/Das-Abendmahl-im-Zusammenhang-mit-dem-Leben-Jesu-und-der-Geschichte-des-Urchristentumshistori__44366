@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42712'
     url: http://www.gutenberg.org/2009/agents/42712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44366#Das-Abendmahl-im-Zusammenhang-mit-dem-Leben-Jesu-und-der-Geschichte-des-Urchristentumshistori_
 gutenberg_issued: '2013-12-05'
 gutenberg_type: Text
 identifiers:
